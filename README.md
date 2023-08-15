@@ -3,7 +3,7 @@
 
 <img style="  display: block;
   margin-left: auto;
-  margin-right: auto; " src="https://i.ibb.co/phy8T77/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f.gif" alt="jaber-ahmed-7175a11b0"/>
+  margin-right: auto; " src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
 
 <p>Being Web developer and Ethical Hacker was my dream. I full fill my dream by learning skills HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, ES6, React Js, MongoDB, Node Js, Express Js, and Redux etc etc. In cyber security i learn about SQLI, XSS, CSRF, LFI, BurpSuite, Nessus, FFUF, Dirsearch, Nuclei, WpScan, Linux, Nmap, OSINT and many more. 
 Now I like to learn new things and I am learning daily.
