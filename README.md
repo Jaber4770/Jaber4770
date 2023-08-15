@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaber ahmed</h1>
-<h3 align="center">A passionate Web developer, Ethical Hacker, Photographer, Blood donner and Volunteer from Bangladesh. from India</h3>
+<h3 align="center">A passionate Web developer, Ethical Hacker, Photographer, Blood donner and Volunteer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaber4770&label=Profile%20views&color=0e75b6&style=flat" alt="jaber4770" /> </p>
 
