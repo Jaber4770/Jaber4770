@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/jaber-ahmed-7175a11b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-ahmed-7175a11b0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14259374/jaber-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14259374/jaber-ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/jaber_ahmed_sijan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaber_ahmed_sijan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jaberahmed4770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jaberahmed4770" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jaberahmed4770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jaberahmed4770" height="30" width="40" /></a>
 <a href="https://discord.gg/Jack.Sergey#7120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jack.Sergey#7120" height="30" width="40" /></a>
 </p>
 
