@@ -14,7 +14,7 @@ Thank you for reading about me!</p>
 
 <p align="left"> <a href="https://twitter.com/jaber4770" target="blank"><img src="https://img.shields.io/twitter/follow/jaber4770?logo=twitter&style=for-the-badge" alt="jaber4770" /></a> </p>
 
-- 🔭 I’m currently studying on **National University of Science and Technology Politehnica Bucharest**
+- 🔭 I’m currently studying at **National University of Science and Technology Politehnica Bucharest**
 
 - 🌱 I’m currently learning **Web Development, Programming, Ethical Hacking**
 
