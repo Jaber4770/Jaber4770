@@ -3,9 +3,11 @@
 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
 
-<p>Being Web developer and Ethical Hacker was my dream. I full fill my dream by learning skills HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, ES6, React Js, MongoDB, Node Js, Express Js, and Redux etc etc. In cyber security i learn about SQLI, XSS, CSRF, LFI, BurpSuite, Nessus, FFUF, Dirsearch, Nuclei, WpScan, Linux, Nmap, OSINT and many more. 
-Now I like to learn new things and I am learning daily.
-Thank you for reading about me!</p>
+<p>I'm a passionate Web Developer and Ethical Hacker with skills in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and Redux. I also have hands-on experience in cybersecurity, including SQLi, XSS, CSRF, LFI, and tools like Burp Suite, Nmap, Nessus, and Linux.
+
+I love learning new technologies and improving every day. Thanks for reading!
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaber4770&label=Profile%20views&color=0e75b6&style=flat" alt="jaber4770" /> </p>
 
