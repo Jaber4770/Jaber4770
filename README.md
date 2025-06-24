@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaber Ahmed</h1>
-<h3 align="center">A passionate Web developer, Ethical Hacker, Photographer, Blood donner and Volunteer from Bangladesh.</h3>
+<h3 align="center">A passionate Web developer, Ethical Hacker, Photographer, Blood donor, and Volunteer from Bangladesh.</h3>
 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
 
