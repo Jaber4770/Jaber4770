@@ -14,9 +14,10 @@ I love learning new technologies and improving every day. Thanks for reading!
 <h3 align="left">Github Trophy:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaber4770&margin-w=20" alt="jaber4770" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jaber4770&margin-w=20&margin-h=20" alt="jaber4770" />
   </a>
 </p>
+
 
 
 
