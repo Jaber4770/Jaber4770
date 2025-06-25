@@ -3,9 +3,9 @@
 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
 
-<p>I'm a passionate Web Developer and Ethical Hacker with skills in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and Redux. I also have hands-on experience in cybersecurity, including SQLi, XSS, CSRF, LFI, and tools like Burp Suite, Nmap, Nessus, and Linux.
+<p>I'm a passionate Full Stack Web Developer and Ethical Hacker skilled in HTML5, CSS3, Tailwind, JavaScript, React, Node.js, Express, and MongoDB. I also have hands-on experience in cybersecurity, including SQLi, XSS, CSRF, LFI, etc, and tools like Burp Suite, Nmap, and Nessus.
 
-I love learning new technologies and improving every day. Thanks for reading!
+I'm always eager to learn new technologies.
 
 </p>
 
