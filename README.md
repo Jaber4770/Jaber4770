@@ -3,9 +3,42 @@
 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
 
-<p>I'm a passionate Full Stack Web Developer and Ethical Hacker skilled in HTML5, CSS3, Tailwind, JavaScript, React, Node.js, Express, and MongoDB. I also have hands-on experience in cybersecurity, including SQLi, XSS, CSRF, LFI, etc, and tools like Burp Suite, Nmap, and Nessus.
+<p>🚀 I'm a passionate Full Stack Web Developer and Ethical Hacker with a strong foundation in modern web technologies and cybersecurity.
 
-I'm always eager to learn new technologies.
+💻 Tech Stack
+Frontend: HTML5, CSS3, Tailwind CSS, Modern UI library, JavaScript, React
+
+Backend: Node.js, Express.js, MongoDB
+
+Tools: Git, GitHub, Vite, Firebase, JWT
+
+Security Tools: Burp Suite, Nmap, Nessus
+
+🔒 Web Security
+I’m familiar with Web Application Penetration Testing and continuously trying to explore vulnerabilities like XSS, SQLi, and CSRF in real-world scenarios.
+
+🧠 Currently Learning
+Next.js (for SSR and better routing)
+
+Redux (for state management)
+
+📂 Recent Projects
+1. Dishora – Restaurant Management System
+A full-stack MERN app with user authentication, purchase restrictions, admin dashboard, JWT protection, and Firebase integration.
+
+🔹 Food item management (CRUD)
+🔹 Secure order system with user purchase limits
+🔹 Responsive design and real-time feedback with SweetAlert2
+
+2. Leafano – Gardening Tips Web App
+A user-friendly platform for browsing and filtering gardening tips with a clean UI and powerful filtering options.
+
+🔹 Category & date-based filtering
+🔹 Tips management (CRUD)
+🔹 Mobile-first responsive design
+🔹 Built with React, Node.js, and MongoDB
+
+🌱 I'm currently focused on Web Development and actively sharpening my skills in both development and web application security.
 
 </p>
 
@@ -26,8 +59,6 @@ I'm always eager to learn new technologies.
 - 🔭 I’m currently studying at **University of Messina**
 
 - 🌱 I’m currently learning **Web Development, Programming, Ethical Hacking**
-
-- 💬 Ask me about **Web Development and Ethical Hacking**
 
 - 📫 How to reach me **jaber.ahmed4770@gmail.com**
 
