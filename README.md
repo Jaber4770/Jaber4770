@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaber Ahmed</h1>
 <h3 align="center">A passionate Web developer, Ethical Hacker, Photographer, Blood donor, and Volunteer from Bangladesh.</h3>
 
-<img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
+<p align="center">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
+</p>
+
 
 <p>🚀 I'm a passionate Full Stack Web Developer and Ethical Hacker with a strong foundation in modern web technologies and cybersecurity.
 
@@ -106,19 +109,23 @@ A user-friendly platform for browsing and filtering gardening tips with a clean 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
 
-  <!-- Backend -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
+<!-- Backend -->
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> 
+</a>
+
 
   <!-- Tools & Others -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
